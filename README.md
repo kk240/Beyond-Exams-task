@@ -6,8 +6,8 @@ I created this application with laravel 7.3. With the app user can retrieve the 
 ![Screenshot of my app](./public/screenshot/myapp-3.png)
 
 1.  Clone the repository: First, you need to clone the repository to your local machine. You can do this by running the following command in your terminal or command prompt:
-    git clone https://github.com/<username>/<repository>.git
-    Replace <username> and <repository> with the actual username and repository name.
+    git clone https://github.com/username/repository.git
+    Replace username and repository with the actual username and repository name.
 2.  Install dependencies: Once you have cloned the repository, you need to install the project's dependencies using Composer. Navigate to the project directory in your terminal or command prompt and run the following command:
     composer install
     This will install all the required dependencies listed in the composer.json file.
